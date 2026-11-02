@@ -1,0 +1,20 @@
+#!/bin/sh
+# Normal VR entry; installation/default selection remains an explicit action.
+case "${1:-}" in
+    start)
+        shift
+        exec /usr/bin/python3 /opt/mix-vr-shell-controller/session.py start \
+            --seconds 0 --gain 16 \
+            --controller-plan /opt/mix-vr-shell-controller/plans/controller-snpe-dsp.json "$@"
+        ;;
+    stop|status)
+        exec /usr/bin/python3 /opt/mix-vr-shell-controller/session.py "$@"
+        ;;
+    default-vr|default-iio|default-desktop)
+        exec /usr/bin/python3 /opt/mix-vr-shell-qvr-live/control.py "$@"
+        ;;
+    *)
+        echo 'Usage: mix-vr-shell-qvr start [--seconds N] [--gain 16|64] | stop | status | default-vr | default-iio | default-desktop' >&2
+        exit 2
+        ;;
+esac

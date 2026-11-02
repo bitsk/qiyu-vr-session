@@ -1,0 +1,42 @@
+{
+  "format": "a081-controller-session-plan-v1",
+  "producer_argv": [
+    "/opt/mix-vr-shell-controller/run-sdk-worker.sh",
+    "--root",
+    "/opt/mix-controller-pose-stock",
+    "--worker",
+    "/opt/mix-vr-shell-controller/controller-sdk-pose",
+    "--worker-sha256",
+    "728ca5827acebdeaff9e44679228d77c6a82a8285cec84d043133235f237eabc",
+    "--input-socket",
+    "/run/a081-controller-input-snpe-dsp-r1/input.sock",
+    "--output-fd",
+    "{packet_fd}",
+    "--seconds",
+    "0",
+    "--candidate-profile",
+    "sdk-world-to-portrait-v1",
+    "--cdsp-runtime",
+    "/opt/mix-vr-shell-controller/tracking/stock-runtime/qcom",
+    "--snpe-runtime",
+    "dsp"
+  ],
+  "producer_executable_sha256": "6ec619becd986ece562477a3c0fc04674a43f8e39b689394140bd626c975872e",
+  "input_socket": "/run/a081-controller-input-snpe-dsp-r1/input.sock",
+  "camera_env": {
+    "A081_CONTROLLER_INPUT_SOCKET": "/run/a081-controller-input-snpe-dsp-r1/input.sock",
+    "A081_CONTROLLER_EXPOSURE_PROFILE": "kernel-three-phase",
+    "A081_QVR_STARTUP_AE": "stock-ov7251",
+    "A081_STOCK_ISO100_REAL_GAIN": "1",
+    "A081_CONTROLLER_SHARED_CDSP": "1"
+  },
+  "radio_argv": [
+    "/opt/mix-vr-shell-controller/controller-radio",
+    "--socket",
+    "/run/a081-controller-input-snpe-dsp-r1/input.sock",
+    "--camera-time",
+    "--seconds",
+    "0"
+  ],
+  "radio_executable_sha256": "f444b80596abdb66d955bffade8d3b2fffd814a546d26d2fdb47dbe89babc926"
+}

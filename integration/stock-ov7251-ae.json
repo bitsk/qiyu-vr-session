@@ -1,0 +1,1213 @@
+{
+  "source_sha256": "96b4370826b4b9351e1c02ae015fe6f1168214aeb8ea0be85091a7cf12058ef6",
+  "source_load_tuning_data_offset": 4116,
+  "table_file_offset": 8200,
+  "initial_index": 160,
+  "convergence_speed": 1.125,
+  "luma_target": 55,
+  "luma_tolerance": 4,
+  "startup_frame_skip": 0,
+  "frame_skip": 0,
+  "entries": [
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 4000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 5000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 6000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 7000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 8000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 9000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 10000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 11000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 12000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 13000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 14000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 15000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 16000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 17000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 18000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 19000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 20000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 21000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 22000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 23000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 24000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 25000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 26000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 27000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 28000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 29000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 30000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 31000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 32000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 33000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 34000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 36000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 38000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 40000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 42000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 44000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 46000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 48000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 50000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 52000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 54000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 56000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 58000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 60000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 62000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 64000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 66000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 68000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 71000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 74000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 77000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 80000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 83000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 86000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 89000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 92000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 95000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 98000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 101000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 105000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 109000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 113000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 117000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 121000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 125000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 129000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 133000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 137000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 142000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 147000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 152000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 157000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 162000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 167000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 173000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 179000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 185000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 191000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 197000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 203000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 210000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 217000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 224000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 231000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 238000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 246000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 254000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 262000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 270000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 279000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 288000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 297000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 306000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 316000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 326000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 336000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 347000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 358000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 369000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 381000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 393000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 405000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 418000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 431000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 444000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 458000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 472000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 487000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 502000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 518000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 534000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 551000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 568000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 586000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 604000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 623000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 642000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 662000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 682000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 703000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 725000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 747000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 770000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 794000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 818000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 843000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 869000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 896000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 923000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 951000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 980000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1010000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1041000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1073000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1106000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1140000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1175000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1211000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1248000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1286000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1325000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1365000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1406000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1449000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1493000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1538000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1585000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1633000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1682000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1733000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1785000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1839000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1895000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 1952000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2011000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2072000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2135000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2200000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2266000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2334000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2405000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2478000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2553000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2630000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2709000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2791000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2875000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 2962000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3051000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3143000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3238000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3336000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3437000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3541000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3648000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3758000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3871000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 3988000
+    },
+    {
+      "iso_gain": 54,
+      "exposure_ns": 4108000
+    },
+    {
+      "iso_gain": 60,
+      "exposure_ns": 3809000
+    },
+    {
+      "iso_gain": 60,
+      "exposure_ns": 3924000
+    },
+    {
+      "iso_gain": 60,
+      "exposure_ns": 4042000
+    },
+    {
+      "iso_gain": 61,
+      "exposure_ns": 4096000
+    },
+    {
+      "iso_gain": 68,
+      "exposure_ns": 3785000
+    },
+    {
+      "iso_gain": 68,
+      "exposure_ns": 3899000
+    },
+    {
+      "iso_gain": 68,
+      "exposure_ns": 4016000
+    },
+    {
+      "iso_gain": 69,
+      "exposure_ns": 4077000
+    },
+    {
+      "iso_gain": 76,
+      "exposure_ns": 3813000
+    },
+    {
+      "iso_gain": 76,
+      "exposure_ns": 3928000
+    },
+    {
+      "iso_gain": 76,
+      "exposure_ns": 4046000
+    },
+    {
+      "iso_gain": 77,
+      "exposure_ns": 4114000
+    },
+    {
+      "iso_gain": 85,
+      "exposure_ns": 3839000
+    },
+    {
+      "iso_gain": 85,
+      "exposure_ns": 3955000
+    },
+    {
+      "iso_gain": 85,
+      "exposure_ns": 4074000
+    },
+    {
+      "iso_gain": 94,
+      "exposure_ns": 3795000
+    },
+    {
+      "iso_gain": 94,
+      "exposure_ns": 3909000
+    },
+    {
+      "iso_gain": 94,
+      "exposure_ns": 4027000
+    },
+    {
+      "iso_gain": 95,
+      "exposure_ns": 4105000
+    },
+    {
+      "iso_gain": 105,
+      "exposure_ns": 3826000
+    },
+    {
+      "iso_gain": 105,
+      "exposure_ns": 3941000
+    },
+    {
+      "iso_gain": 105,
+      "exposure_ns": 4060000
+    },
+    {
+      "iso_gain": 116,
+      "exposure_ns": 3786000
+    },
+    {
+      "iso_gain": 116,
+      "exposure_ns": 3900000
+    },
+    {
+      "iso_gain": 116,
+      "exposure_ns": 4017000
+    },
+    {
+      "iso_gain": 117,
+      "exposure_ns": 4103000
+    },
+    {
+      "iso_gain": 129,
+      "exposure_ns": 3833000
+    },
+    {
+      "iso_gain": 129,
+      "exposure_ns": 3948000
+    },
+    {
+      "iso_gain": 129,
+      "exposure_ns": 4067000
+    },
+    {
+      "iso_gain": 142,
+      "exposure_ns": 3806000
+    },
+    {
+      "iso_gain": 142,
+      "exposure_ns": 3921000
+    },
+    {
+      "iso_gain": 142,
+      "exposure_ns": 4039000
+    },
+    {
+      "iso_gain": 143,
+      "exposure_ns": 4132000
+    },
+    {
+      "iso_gain": 158,
+      "exposure_ns": 3852000
+    },
+    {
+      "iso_gain": 158,
+      "exposure_ns": 3968000
+    },
+    {
+      "iso_gain": 158,
+      "exposure_ns": 4088000
+    },
+    {
+      "iso_gain": 174,
+      "exposure_ns": 3824000
+    },
+    {
+      "iso_gain": 174,
+      "exposure_ns": 3939000
+    },
+    {
+      "iso_gain": 174,
+      "exposure_ns": 4058000
+    },
+    {
+      "iso_gain": 175,
+      "exposure_ns": 4156000
+    },
+    {
+      "iso_gain": 193,
+      "exposure_ns": 3882000
+    },
+    {
+      "iso_gain": 213,
+      "exposure_ns": 3624000
+    },
+    {
+      "iso_gain": 213,
+      "exposure_ns": 3733000
+    },
+    {
+      "iso_gain": 213,
+      "exposure_ns": 3845000
+    },
+    {
+      "iso_gain": 213,
+      "exposure_ns": 3961000
+    },
+    {
+      "iso_gain": 213,
+      "exposure_ns": 4080000
+    },
+    {
+      "iso_gain": 235,
+      "exposure_ns": 3809000
+    },
+    {
+      "iso_gain": 235,
+      "exposure_ns": 3924000
+    },
+    {
+      "iso_gain": 235,
+      "exposure_ns": 4042000
+    },
+    {
+      "iso_gain": 236,
+      "exposure_ns": 4146000
+    },
+    {
+      "iso_gain": 260,
+      "exposure_ns": 3877000
+    },
+    {
+      "iso_gain": 286,
+      "exposure_ns": 3631000
+    },
+    {
+      "iso_gain": 286,
+      "exposure_ns": 3740000
+    },
+    {
+      "iso_gain": 286,
+      "exposure_ns": 3853000
+    },
+    {
+      "iso_gain": 286,
+      "exposure_ns": 3969000
+    },
+    {
+      "iso_gain": 286,
+      "exposure_ns": 4089000
+    },
+    {
+      "iso_gain": 315,
+      "exposure_ns": 3824000
+    },
+    {
+      "iso_gain": 315,
+      "exposure_ns": 3939000
+    },
+    {
+      "iso_gain": 315,
+      "exposure_ns": 4058000
+    },
+    {
+      "iso_gain": 316,
+      "exposure_ns": 4167000
+    },
+    {
+      "iso_gain": 348,
+      "exposure_ns": 3898000
+    },
+    {
+      "iso_gain": 383,
+      "exposure_ns": 3649000
+    },
+    {
+      "iso_gain": 383,
+      "exposure_ns": 3759000
+    },
+    {
+      "iso_gain": 383,
+      "exposure_ns": 3872000
+    },
+    {
+      "iso_gain": 383,
+      "exposure_ns": 3989000
+    },
+    {
+      "iso_gain": 383,
+      "exposure_ns": 4109000
+    },
+    {
+      "iso_gain": 422,
+      "exposure_ns": 3842000
+    },
+    {
+      "iso_gain": 422,
+      "exposure_ns": 3958000
+    },
+    {
+      "iso_gain": 422,
+      "exposure_ns": 4077000
+    },
+    {
+      "iso_gain": 465,
+      "exposure_ns": 3811000
+    },
+    {
+      "iso_gain": 465,
+      "exposure_ns": 3926000
+    },
+    {
+      "iso_gain": 465,
+      "exposure_ns": 4044000
+    },
+    {
+      "iso_gain": 466,
+      "exposure_ns": 4157000
+    },
+    {
+      "iso_gain": 513,
+      "exposure_ns": 3890000
+    },
+    {
+      "iso_gain": 565,
+      "exposure_ns": 3638000
+    },
+    {
+      "iso_gain": 565,
+      "exposure_ns": 3748000
+    },
+    {
+      "iso_gain": 565,
+      "exposure_ns": 3861000
+    },
+    {
+      "iso_gain": 565,
+      "exposure_ns": 3977000
+    },
+    {
+      "iso_gain": 565,
+      "exposure_ns": 4097000
+    },
+    {
+      "iso_gain": 622,
+      "exposure_ns": 3834000
+    },
+    {
+      "iso_gain": 622,
+      "exposure_ns": 3950000
+    },
+    {
+      "iso_gain": 622,
+      "exposure_ns": 4069000
+    },
+    {
+      "iso_gain": 685,
+      "exposure_ns": 3806000
+    },
+    {
+      "iso_gain": 685,
+      "exposure_ns": 3921000
+    },
+    {
+      "iso_gain": 685,
+      "exposure_ns": 4039000
+    },
+    {
+      "iso_gain": 686,
+      "exposure_ns": 4155000
+    },
+    {
+      "iso_gain": 755,
+      "exposure_ns": 3889000
+    },
+    {
+      "iso_gain": 831,
+      "exposure_ns": 3640000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 3615000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 3724000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 3836000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 3952000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4071000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4194000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4320000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4450000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4584000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4722000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 4864000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5010000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5161000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5316000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5476000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5641000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5811000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 5986000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 6166000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 6351000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 6542000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 6739000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 6942000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 7151000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 7366000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 7587000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 7815000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 8050000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 8292000
+    },
+    {
+      "iso_gain": 862,
+      "exposure_ns": 8541000
+    }
+  ]
+}
